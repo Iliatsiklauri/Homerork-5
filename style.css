@@ -348,6 +348,10 @@ img[alt="menu"] {
   letter-spacing: 1.364px;
   width: 327px;
 }
+.header_div_btn:hover {
+  background-color: white;
+  color: #2c2830;
+}
 .menu_btn h4 {
   color: #fff;
   text-align: center;
@@ -421,10 +425,7 @@ img[alt="img22"] {
   .header_div_btn {
     align-self: self-start;
   }
-  .header_div_btn:hover {
-    background-color: white;
-    color: #2c2830;
-  }
+
   .btn1 {
     display: none;
   }
