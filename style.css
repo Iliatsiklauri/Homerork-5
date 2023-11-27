@@ -611,4 +611,7 @@ img[alt="img22"] {
     top: 490px;
     z-index: 5;
   }
+  img[alt="wal1"] {
+    display: block;
+  }
 }
