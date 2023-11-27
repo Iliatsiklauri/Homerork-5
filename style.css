@@ -612,6 +612,6 @@ img[alt="img22"] {
     z-index: 5;
   }
   img[alt="wal1"] {
-    display: block;
+    display: none;
   }
 }
